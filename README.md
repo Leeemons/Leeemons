@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## Stats 
+
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=Leeemons&show_icons=true&theme=radical&cache_seconds=43200" /> &nbsp;
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leeemons&theme=radical&cache_seconds=21600" />
+
 <!--
 **Leeemons/Leeemons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
